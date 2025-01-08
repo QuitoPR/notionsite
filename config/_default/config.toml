@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "a66dfde0.notionsite-28x.pages.dev"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Alex Mendez"
 theme = "DoIt"
